@@ -1,6 +1,6 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋)](https://git.io/typing-svg)
+
 
 ###
 
@@ -10,18 +10,6 @@
   </a>
 </div>
 
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ElRuflas.ElRuflas" />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
