@@ -44,3 +44,17 @@
 </div>
 
 
+
+### 🚀 Proyectos en los que colaboro
+
+Aquí tienes algunos proyectos en los que he trabajado junto a otros desarrolladores:
+
+- [**BigFive**](https://github.com/pablolobat0/bigFive)  
+    🧠 Aplicación web que combina un chatbot emocional con un diario personal. Analiza las entradas del usuario y sus conversaciones para ofrecer recomendaciones personalizadas y ayudar en el autoconocimiento y bienestar emocional.
+
+- [**Medication-Tracker**](https://github.com/pabloseijo/Medication-Tracker)  
+  💊 Aplicación móvil diseñada para ayudar a los pacientes a seguir su tratamiento médico. Permite gestionar recordatorios de medicación, registrar tomas y recibir notificaciones, reduciendo el riesgo de olvidos y mejorando la adherencia al tratamiento.
+
+
+
+
